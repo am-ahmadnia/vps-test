@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'irsans';
+  src: url('../fonts/old/iran-sans.ttf');
+}
+@font-face {
+  font-family: 'irsans-bold';
+  src: url('../fonts/old/iran-sans-bold.ttf');
+}
+@font-face {
+  font-family: farhang !important;
+  src: url('../fonts/old//woff/Farhang-Medium.woff');
+}
+
+/* * {
+  font-family: irsans, Roboto;
+} */
+
+/* body {
+  font-family: iranyekan !important;
+  direction: rtl;
+  background-color: #cdcdcd;
+  margin: 0;
+} */
+/*
+@import url(fontiran.css); /* لینک فایلی که وظیفه بارگذاری فونت ها را برعهده دارد */
